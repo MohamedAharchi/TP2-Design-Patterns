@@ -1,0 +1,4 @@
+2018-04-27 15:08:47 TRACE MyLogger:16 - class 1.method 1: message 1
+2018-04-27 15:08:47 INFO  MyLogger:17 - class 1.method 1: message 1
+2018-04-27 15:08:47 DEBUG MyLogger:18 - class 1.method 1: message 1
+2018-04-27 15:08:47 ERROR MyLogger:19 - class 1.method 1: message 1
